@@ -19,12 +19,14 @@ OneR(iris)
 
 *** =sample_code
 ```{r}
-
+library(OneR)
+OneR(iris)
 ```
 
 *** =solution
 ```{r}
-
+library(OneR)
+OneR(iris)
 ```
 
 *** =sct
