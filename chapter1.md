@@ -6,43 +6,6 @@ attachments :
 
 
 ---
-## <<<New Exercise>>>
-
-```yaml
-type: NormalExercise
-key: c0b745c5fb
-lang: r
-xp: 100
-skills: 1
-```
-
-
-`@instructions`
-
-`@hint`
-
-`@pre_exercise_code`
-```{r}
-library(OneR)
-OneR(iris)
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
----
 ## A really bad movie
 
 ```yaml
